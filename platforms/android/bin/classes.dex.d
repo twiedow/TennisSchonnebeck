@@ -1,21 +1,9 @@
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes.dex : \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$3$1.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$3$2.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$3$3.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$3$4.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$3$5.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppChromeClient.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/twiedow/TennisSchonnebeck/BuildConfig.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/twiedow/TennisSchonnebeck/R$attr.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/twiedow/TennisSchonnebeck/R$drawable.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/twiedow/TennisSchonnebeck/R$layout.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/twiedow/TennisSchonnebeck/R$string.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/twiedow/TennisSchonnebeck/R$xml.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/twiedow/TennisSchonnebeck/R.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/classes/twiedow/TennisSchonnebeck/TennisSchonnebeck.class \
-/Users/twiedow/Desktop/TennisSchonnebeck/platforms/android/bin/dexedLibs/cordova-3.0.0-a2a9d7ea04a071e59594457b460aefab.jar \
+/Users/twiedow/Projects/TennisSchonnebeck/platforms/android/bin/classes.dex : \
+/Users/twiedow/Projects/TennisSchonnebeck/platforms/android/bin/classes/com/phonegap/helloworld/BuildConfig.class \
+/Users/twiedow/Projects/TennisSchonnebeck/platforms/android/bin/classes/com/phonegap/helloworld/R$attr.class \
+/Users/twiedow/Projects/TennisSchonnebeck/platforms/android/bin/classes/com/phonegap/helloworld/R$drawable.class \
+/Users/twiedow/Projects/TennisSchonnebeck/platforms/android/bin/classes/com/phonegap/helloworld/R$string.class \
+/Users/twiedow/Projects/TennisSchonnebeck/platforms/android/bin/classes/com/phonegap/helloworld/R$xml.class \
+/Users/twiedow/Projects/TennisSchonnebeck/platforms/android/bin/classes/com/phonegap/helloworld/R.class \
+/Users/twiedow/Projects/TennisSchonnebeck/platforms/android/bin/classes/com/phonegap/helloworld/TennisSchonnebeck.class \
+/Users/twiedow/Projects/TennisSchonnebeck/platforms/android/bin/dexedLibs/classes-30eff93206f4252b011e40a9864c424b.jar \
