@@ -1,3 +1,3 @@
 # view AndroidManifest.xml #generated:6
--keep class com.phonegap.helloworld.TennisSchonnebeck { <init>(...); }
+-keep class twiedow.TennisSchonnebeck.SVSchonnebeckTennis { <init>(...); }
 

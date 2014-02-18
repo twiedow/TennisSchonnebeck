@@ -1,4 +1,4 @@
-/Users/twiedow/Projects/TennisSchonnebeck/platforms/android/gen/com/phonegap/helloworld/R.java \
+/Users/twiedow/Projects/TennisSchonnebeck/platforms/android/gen/twiedow/TennisSchonnebeck/R.java \
  : /Users/twiedow/Projects/TennisSchonnebeck/platforms/android/res/drawable/icon.png \
 /Users/twiedow/Projects/TennisSchonnebeck/platforms/android/res/drawable-hdpi/icon.png \
 /Users/twiedow/Projects/TennisSchonnebeck/platforms/android/res/drawable-ldpi/icon.png \
