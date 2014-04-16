@@ -19,8 +19,11 @@
 
 package twiedow.TennisSchonnebeck;
 
+import org.apache.cordova.Config;
+import org.apache.cordova.CordovaActivity;
+
 import android.os.Bundle;
-import org.apache.cordova.*;
+import android.webkit.WebSettings;
 
 public class SVSchonnebeckTennis extends CordovaActivity 
 {
@@ -32,6 +35,11 @@ public class SVSchonnebeckTennis extends CordovaActivity
         // Set by <content src="index.html" /> in config.xml
         super.loadUrl(Config.getStartUrl());
         //super.loadUrl("file:///android_asset/www/index.html")
+
+        super.appView.getSettings().setBuiltInZoomControls(true);
+        super.appView.getSettings().setSupportZoom(true);
+        super.appView.getSettings().setUseWideViewPort(true);
+        super.appView.setInitialScale(50);
     }
 }
 
